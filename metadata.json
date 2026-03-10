@@ -1,0 +1,5 @@
+{
+  "name": "MFULEX",
+  "description": "A sophisticated sales analytics dashboard that connects to your Google Sheets data to provide daily, weekly, and monthly insights on revenue, order counts, and product performance using Recharts and Gemini AI.",
+  "requestFramePermissions": []
+}
